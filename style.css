@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+#sketch_name{
+    color:red;
+}
+#show_sketch{
+    float: right;
+}
+#score{
+    font-size: 35px;
+    margin-left:20px;
+}
+#time{
+    font-size: 35px;
+    margin-right: 20px;
+    float: right;
+}
